@@ -1,5 +1,26 @@
-*{
-  margin: 0;
-  padding: 0;
+* {
   box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header {
+  display: flex;
+}
+
+img {
+  width: 13rem;
+  height: 10rem;
+  margin: 1rem;
+}
+
+.description {
+  align-self: center;
+}
+
+.method {
+  display: flex;
+}
+
+.ingredients {
+  display: flex;
 }
